@@ -1,3 +1,5 @@
+A todo app using solid.js tailwind ramda
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
